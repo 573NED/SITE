@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body {
+    background: linear-gradient(180deg, #485563 0%, #29323C 100%);
+    background-size: 100% 100%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+#hi {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+    height: 583px;
+    margin-top: 58px;
+    background: #545C72;
+    border-radius: 60px;
+    
+}
+
+#hi,
+img {
+    width: 80%;
+    border-radius: 40px;
+}
+
+#hi,
+h1 {
+    font-size: 40px;
+    line-height: 46px;
+}
+
+#hi,
+h2 {
+    font-size: 32px;
+    line-height: 37px;
+}
+
+#work {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    height: 960px;
+    background: #545C72;
+    border-radius: 60px;
+}
