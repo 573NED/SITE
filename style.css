@@ -84,4 +84,7 @@ a {
     grid-template-areas: "input" "img" "output";
     transform: scale(3);
   }
+  html {
+    height: 120vh:
+  }
 }
